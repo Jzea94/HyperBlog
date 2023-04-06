@@ -4,3 +4,5 @@ actualmente vive en Soledad, Atlántico
 Hoy hablaremos de su vida de padre de familia
 Actualmente vive con su pareja e hija
 Su hija tiene por nombre Emma Sofya y es la bebe más hermosa del mundo
+
+Aca estamos agragando información desde la consola haciendo uso del comando vim
